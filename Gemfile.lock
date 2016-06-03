@@ -26,6 +26,3 @@ PLATFORMS
 DEPENDENCIES
   oauth
   tumblr_client
-
-BUNDLED WITH
-   1.11.2
